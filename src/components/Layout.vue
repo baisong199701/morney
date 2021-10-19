@@ -21,6 +21,7 @@ export default {
   height: 100vh;
 }
 .content {
+  background: #f2f2f2;
   overflow: auto;
   flex-grow: 1;
 }
